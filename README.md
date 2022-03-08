@@ -35,7 +35,7 @@
       <ul>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%201%20-%20Superbowl%20HT%20Show">Project 1 - Superbowl HT Show</a></li>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%202%20-%20The%20Android%20App%20Market%20on%20Google%20Play">Project 2 - The Android App Market on Google Play</a></li>
-        <li><a href="#built-with">Project 3</a></li>
+        <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%203%20-%20The%20GitHub%20History%20of%20the%20Scala%20Language">Project 3 - The GitHub History of the Scala Language</a></li>
       </ul>
     </li>
     <li>

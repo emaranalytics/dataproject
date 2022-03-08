@@ -62,7 +62,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Portfolio Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![alt text](https://github.com/emaranalytics/dataproject/blob/main/images/000.webp?raw=true)
 
 There are many topics in data science terms covered in my projects and more projects are upcoming, from advanced data manipulation/data wrangling using pandas, multiple data sources projects, classification, clustering, regression, time series prediction, model improvement, model deployment, and more. Projects are divided into several branches with specific topics and separated from another branch.
 

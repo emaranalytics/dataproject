@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="390px" height="160px" viewBox="0 0 390 160" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Biryani">@import url(https://fonts.googleapis.com/css2?family=Biryani%3Aital%2Cwght%400%2C200%3B0%2C300%3B0%2C400%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900&amp;display=swap);</style>
+  </defs>
+  <path d="M 22.808 40.2 L 3.497 40.2 C 2.461 40.2 1.62 41.051 1.62 42.098 L 1.62 78.899 L 22.808 40.2 Z" fill="black" style=""/>
+  <path d="M 1.125 84.182 C 1.175 84.184 1.224 84.184 1.273 84.184 L 25.021 84.184 C 26.881 84.184 28.341 85.961 28.182 88.029 L 26.128 114.826 C 25.836 118.634 30.408 120.187 32.065 116.841 L 56.741 67.01 C 57.909 64.649 56.38 61.754 53.965 61.754 L 30.217 61.754 C 28.358 61.754 26.896 59.979 27.056 57.911 L 28.497 39.112 L 52.462 39.112 C 74.544 39.112 84.444 70.169 67.365 85.871 L 54.013 98.146 C 53.138 98.948 52.967 100.374 53.618 101.41 L 76.657 138.017 C 77.364 139.139 76.647 140.685 75.421 140.685 L 2.639 140.685 C 1.804 140.685 1.125 139.927 1.125 138.993 L 1.125 84.182 Z" fill="black" style=""/>
+  <text style="fill: rgb(0, 0, 0); font-family: Biryani; font-size: 60px; font-weight: 900; white-space: pre;" x="-2.485"><tspan x="81.1" y="111.366" style="font-size: 60px; word-spacing: 0px;">TR </tspan><tspan style="fill: rgb(49, 59, 172); font-size: 60px; word-spacing: 0px;">SPACE</tspan></text>
+</svg>

@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/emaranalytics/dataproject">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo-only-blue.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Welcome to My Portfolio Projects</h3>

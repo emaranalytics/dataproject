@@ -19,7 +19,7 @@
   </p>
   
   <a href="http://theridwanspace.com/">
-    TR Space
+    <img src="images/full-width-logo-large.svg" alt="Logo" width="120" height="80">
   </a>
   
 </div>

@@ -28,7 +28,7 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 ![image](https://user-images.githubusercontent.com/66315773/157185745-0ca8863f-bb42-4321-a5c7-bc4d5751e6e1.png)
 
 
-4. __Distriution of Difference Points__
+4. __Distribution of Difference Points__
 
 ![image](https://user-images.githubusercontent.com/66315773/157185926-70a1eae3-12a5-4f7b-89b8-bb3d4dd1828e.png)
 

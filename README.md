@@ -64,7 +64,7 @@
 
 ![alt text](https://github.com/emaranalytics/dataproject/blob/main/images/000.webp?raw=true)
 
-There are many topics in data science terms covered in my projects and more projects are upcoming, from advanced data manipulation/data wrangling using pandas, multiple data sources projects, classification, clustering, regression, time series prediction, model improvement, model deployment, and more. Projects are divided into several branches with specific topics and separated from another branch.
+There are many topics in data science terms covered in my projects and more projects are upcoming, from advanced data manipulation/data wrangling using pandas, multiple data sources projects, classification, clustering, regression, time series prediction, model improvement, model deployment, and more. Projects are divided into several folders with specific topics.
 
 What this projects do:
 * To help you as employer review what skills and experiences I've been through

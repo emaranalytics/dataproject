@@ -14,29 +14,33 @@ Whether or not you like football, the Super Bowl is a spectacle. There's a littl
 <!-- Key Concepts -->
 ## PROJECT'S KEY CONCEPTS
 1. __Dataframe__
+
 ![image](https://user-images.githubusercontent.com/66315773/157183759-6a9eef4b-b631-49be-8fec-4737eebde380.png)
 
-<br>
+
 2. __Summary of dataframe__
+
 ![image](https://user-images.githubusercontent.com/66315773/157184319-45199496-ed2c-409d-a22c-19d6d7d9f353.png)
 
-<br>
+
 3. __Distribution of Combined Points__
+
 ![image](https://user-images.githubusercontent.com/66315773/157185745-0ca8863f-bb42-4321-a5c7-bc4d5751e6e1.png)
 
-<br>
-4. __Distriution of Difference Points
+
+4. __Distriution of Difference Points__
+
 ![image](https://user-images.githubusercontent.com/66315773/157185926-70a1eae3-12a5-4f7b-89b8-bb3d4dd1828e.png)
 
-<br>
-5. __Correlation Between Higher Point Diffs With Household TV Share
-6![image](https://user-images.githubusercontent.com/66315773/157186190-9389bac3-9b17-41ba-befd-c60b0309fd94.png)
+5. __Correlation Between Higher Point Diffs With Household TV Share__
 
-<br>
+![image](https://user-images.githubusercontent.com/66315773/157186190-9389bac3-9b17-41ba-befd-c60b0309fd94.png)
+
 6. __Viewers and Ad Industry__
+
 ![image](https://user-images.githubusercontent.com/66315773/157186333-92ba85a5-9a81-4832-ab88-56c369634639.png)
 
-<br>
 7. __Most Performance in Halftime Show__
+
 ![image](https://user-images.githubusercontent.com/66315773/157186524-e7806be7-cd23-48b3-8f92-5af70a15fe7b.png)
 

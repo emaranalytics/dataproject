@@ -37,6 +37,7 @@
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%202%20-%20The%20Android%20App%20Market%20on%20Google%20Play">Project 2 - The Android App Market on Google Play</a></li>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%203%20-%20The%20GitHub%20History%20of%20the%20Scala%20Language">Project 3 - The GitHub History of the Scala Language</a></li>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%204%20-%20A%20Visual%20History%20of%20Nobel%20Prize%20Winners">Project 4 - A Visual History of Nobel Prize Winners</a></li>
+        <li><a href="https://github.com/emaranalytics/dataproject/tree/main/Project%205%20-%20The%20Discovery%20of%20Handwashing">Project 5 - The Discovery of Handwashing</a></li>
       </ul>
     </li>
     <li>

@@ -44,7 +44,7 @@
       <a href="#getting-started">Machine Learning</a>
       <ul>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%201%20-%20Credit%20Card%20Approval">ML - Project 1 - Credit Card Approval</a></li>
-        <li><a href="#installation">Project 2</a></li>
+        <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%202%20-%20Customer%20Fraud%20Detection">ML - Project 2 - Customer Fraud Detection</a></li>
         <li><a href="#installation">Project 3</a></li>
       </ul>
     </li>

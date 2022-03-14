@@ -46,6 +46,7 @@
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%201%20-%20Credit%20Card%20Approval">ML - Project 1 - Credit Card Approval</a></li>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%202%20-%20Customer%20Fraud%20Detection">ML - Project 2 - Customer Fraud Detection</a></li>
         <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%203%20-%20Heart%20Disease%20Prediction">ML - Project 3 - Heart Disease Detection</a></li>
+        <li><a href="https://github.com/emaranalytics/dataproject/tree/main/ML%20-%20Project%204%20-%20Bulldozer%20Sales%20Price%20Prediction">ML - Project 4 - Bulldozer Sales Price Prediction</a></li>
       </ul>
     </li>
 <!--     <li>
